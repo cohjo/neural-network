@@ -1,2 +1,4 @@
 # neural-network
-Building a neural network from scratch
+building a neural network from scratch
+
+this is just for fun and education, not intended for actual use
